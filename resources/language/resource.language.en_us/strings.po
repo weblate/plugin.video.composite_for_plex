@@ -18,7 +18,7 @@ msgstr ""
 
 msgctxt "#30000"
 msgid "Confirm file delete?"
-msgstr ""
+msgstr "Confirm file delete?"
 
 msgctxt "#30001"
 msgid "Delete this item? This action will delete media and associated data files."
