@@ -5,49 +5,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Composite\n"
-"Report-Msgid-Bugs-To: https://github.com/anxdpanic/plugin.video.composite_for_plex/issues\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-10-26 17:05+0000\n"
-"PO-Revision-Date: 2022-03-01 18:13+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
-"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-video/plugin-video-composite_for_plex/zh_cn/>\n"
+"PO-Revision-Date: 2026-05-10 03:16+0000\n"
+"Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-add-ons-video/plugin-video-composite_for_plex/zh_Hans/>\n"
 "Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.11\n"
+"X-Generator: Weblate 5.17.1\n"
 
 msgctxt "Addon Description"
 msgid "Browse and play video, music and photo media files managed by Plex Media Server.[CR][CR]Fork of PleXBMC by Hippojay"
-msgstr ""
+msgstr "浏览和播放由 Plex Media Server 管理的视频、音乐和照片媒体文件。[CR][CR]Hippojay 的 PleXBMC 的分叉"
 
 msgctxt "Addon Disclaimer"
 msgid "Composite is NOT an official Plex add-on and is not supported or endorsed by Plex."
-msgstr ""
+msgstr "Composite 不是 Plex 的官方插件，不受 Plex 支持或认可。"
 
 msgctxt "#30000"
 msgid "Confirm file delete?"
-msgstr ""
+msgstr "确认文件删除？"
 
 msgctxt "#30001"
 msgid "Delete this item? This action will delete media and associated data files."
-msgstr ""
+msgstr "删除此项目？此作将删除媒体和相关数据文件。"
 
 msgctxt "#30002"
 msgid "Plex Online"
-msgstr ""
+msgstr "Plex 在线"
 
 msgctxt "#30003"
 msgid "About to install"
-msgstr ""
+msgstr "即将安装"
 
 msgctxt "#30004"
 msgid "This plugin is already installed"
-msgstr ""
+msgstr "此插件已安装"
 
 msgctxt "#30005"
 msgid "Switch Failed"
-msgstr ""
+msgstr "切换失败"
 
 msgctxt "#30006"
 msgid "Sign Out"
@@ -55,24 +55,24 @@ msgstr "登出"
 
 msgctxt "#30007"
 msgid "To sign out you must be logged in as an admin user. Switch user and try again"
-msgstr ""
+msgstr "要退出登录，您必须以管理员用户身份登录。请切换用户再试一次"
 
 msgctxt "#30008"
 msgid "myPlex"
-msgstr ""
+msgstr "myPlex"
 
 msgctxt "#30009"
 msgid "You are currently signed into myPlex. Are you sure you want to sign out?"
-msgstr ""
+msgstr "您正在登录 myPlex。您确定要退出吗？"
 
 #  30010
 msgctxt "#30011"
 msgid "You are not currently logged into myPlex. Continue to sign in, or cancel to return"
-msgstr ""
+msgstr "您当前尚未登录 myPlex。继续登录，或取消登录返回"
 
 msgctxt "#30012"
 msgid "To access these screens you must be logged in as an admin user. Switch user and try again"
-msgstr ""
+msgstr "要访问这些屏幕，您必须以管理员用户身份登录。切换用户并重试"
 
 msgctxt "#30013"
 msgid "All"
@@ -80,59 +80,59 @@ msgstr "全部"
 
 msgctxt "#30014"
 msgid "Unwatched"
-msgstr ""
+msgstr "未观看"
 
 msgctxt "#30015"
 msgid "Recently Aired"
-msgstr ""
+msgstr "最近播出"
 
 msgctxt "#30016"
 msgid "Recently Added"
-msgstr ""
+msgstr "最近添加"
 
 msgctxt "#30017"
 msgid "Recently Viewed Episodes"
-msgstr ""
+msgstr "最近观看的剧集"
 
 msgctxt "#30018"
 msgid "Recently Viewed Shows"
-msgstr ""
+msgstr "最近观看的节目"
 
 msgctxt "#30019"
 msgid "On Deck"
-msgstr ""
+msgstr "即将观看"
 
 msgctxt "#30020"
 msgid "By Collection"
-msgstr ""
+msgstr "按合集"
 
 msgctxt "#30021"
 msgid "By First Letter"
-msgstr ""
+msgstr "按首字母"
 
 msgctxt "#30022"
 msgid "By Genre"
-msgstr ""
+msgstr "按类型"
 
 msgctxt "#30023"
 msgid "By Year"
-msgstr ""
+msgstr "按年份"
 
 msgctxt "#30024"
 msgid "By Content Rating"
-msgstr ""
+msgstr "按内容评级"
 
 msgctxt "#30025"
 msgid "By Folder"
-msgstr ""
+msgstr "按文件夹"
 
 msgctxt "#30026"
 msgid "Search Shows..."
-msgstr ""
+msgstr "搜索节目…"
 
 msgctxt "#30027"
 msgid "Search Episodes..."
-msgstr ""
+msgstr "搜索剧集…"
 
 msgctxt "#30028"
 msgid "All"
@@ -140,39 +140,39 @@ msgstr "全部"
 
 msgctxt "#30029"
 msgid "By Album"
-msgstr ""
+msgstr "按专辑"
 
 msgctxt "#30030"
 msgid "By Genre"
-msgstr ""
+msgstr "按类型"
 
 msgctxt "#30031"
 msgid "By Year"
-msgstr ""
+msgstr "按年份"
 
 msgctxt "#30032"
 msgid "By Collection"
-msgstr ""
+msgstr "按合集"
 
 msgctxt "#30033"
 msgid "Recently Added"
-msgstr ""
+msgstr "最近添加"
 
 msgctxt "#30034"
 msgid "By Folder"
-msgstr ""
+msgstr "按文件夹"
 
 msgctxt "#30035"
 msgid "Search Artists..."
-msgstr ""
+msgstr "搜索艺术家..."
 
 msgctxt "#30036"
 msgid "Search Albums..."
-msgstr ""
+msgstr "搜索专辑..."
 
 msgctxt "#30037"
 msgid "Search Tracks..."
-msgstr ""
+msgstr "搜索曲目..."
 
 msgctxt "#30038"
 msgid "All"
@@ -180,75 +180,75 @@ msgstr "全部"
 
 msgctxt "#30039"
 msgid "Unwatched"
-msgstr ""
+msgstr "未观看"
 
 msgctxt "#30040"
 msgid "Recently Released"
-msgstr ""
+msgstr "最近发布"
 
 msgctxt "#30041"
 msgid "Recently Added"
-msgstr ""
+msgstr "最近添加"
 
 msgctxt "#30042"
 msgid "Recently Viewed"
-msgstr ""
+msgstr "最近看过"
 
 msgctxt "#30043"
 msgid "On Deck"
-msgstr ""
+msgstr "即将观看"
 
 msgctxt "#30044"
 msgid "By Collection"
-msgstr ""
+msgstr "按合集"
 
 msgctxt "#30045"
 msgid "By Genre"
-msgstr ""
+msgstr "按类型"
 
 msgctxt "#30046"
 msgid "By Year"
-msgstr ""
+msgstr "按年份"
 
 msgctxt "#30047"
 msgid "By Decade"
-msgstr ""
+msgstr "按年代"
 
 msgctxt "#30048"
 msgid "By Director"
-msgstr ""
+msgstr "按导演"
 
 msgctxt "#30049"
 msgid "By Starring Actor"
-msgstr ""
+msgstr "按主演"
 
 msgctxt "#30050"
 msgid "By Country"
-msgstr ""
+msgstr "按国家"
 
 msgctxt "#30051"
 msgid "By Content Rating"
-msgstr ""
+msgstr "按内容评级"
 
 msgctxt "#30052"
 msgid "By Rating"
-msgstr ""
+msgstr "按评级"
 
 msgctxt "#30053"
 msgid "By Resolution"
-msgstr ""
+msgstr "按分辨率"
 
 msgctxt "#30054"
 msgid "By First Letter"
-msgstr ""
+msgstr "按首字母"
 
 msgctxt "#30055"
 msgid "By Folder"
-msgstr ""
+msgstr "按文件夹"
 
 msgctxt "#30056"
 msgid "Search..."
-msgstr ""
+msgstr "搜索..."
 
 msgctxt "#30057"
 msgid "All"
@@ -256,75 +256,75 @@ msgstr "全部"
 
 msgctxt "#30058"
 msgid "By Year"
-msgstr ""
+msgstr "按年份"
 
 msgctxt "#30059"
 msgid "Recently Added"
-msgstr ""
+msgstr "最近添加"
 
 msgctxt "#30060"
 msgid "Camera Make"
-msgstr ""
+msgstr "相机品牌"
 
 msgctxt "#30061"
 msgid "Camera Model"
-msgstr ""
+msgstr "相机型号"
 
 msgctxt "#30062"
 msgid "Aperture"
-msgstr ""
+msgstr "光圈"
 
 msgctxt "#30063"
 msgid "Shutter Speed"
-msgstr ""
+msgstr "快门速度"
 
 msgctxt "#30064"
 msgid "ISO"
-msgstr ""
+msgstr "ISO"
 
 msgctxt "#30065"
 msgid "Lens"
-msgstr ""
+msgstr "镜头"
 
 msgctxt "#30066"
 msgid "Unable to see any media servers"
-msgstr ""
+msgstr "无法看到任何媒体服务器"
 
 msgctxt "#30067"
 msgid "Unable to contact server:"
-msgstr ""
+msgstr "无法连接服务器："
 
 msgctxt "#30068"
 msgid "Library refresh started"
-msgstr ""
+msgstr "库更新开始"
 
 msgctxt "#30069"
 msgid "myPlex not configured"
-msgstr ""
+msgstr "myPlex 未配置"
 
 msgctxt "#30070"
 msgid "Resume"
-msgstr ""
+msgstr "恢复"
 
 msgctxt "#30071"
 msgid "Select media to play"
-msgstr ""
+msgstr "选择要播放的媒体"
 
 msgctxt "#30072"
 msgid "Select subtitle"
-msgstr ""
+msgstr "选择字幕"
 
 msgctxt "#30073"
 msgid "Select audio"
-msgstr ""
+msgstr "选择音频"
 
 msgctxt "#30074"
 msgid "Select master server"
-msgstr ""
+msgstr "选择主服务器"
 
 msgctxt "#30075"
 msgid "Known server list"
-msgstr ""
+msgstr "已知服务器列表"
 
 msgctxt "#30076"
 msgid "Switch User"
@@ -332,19 +332,19 @@ msgstr "切换用户"
 
 msgctxt "#30077"
 msgid "Enter PIN"
-msgstr ""
+msgstr "输入 PIN 码"
 
 msgctxt "#30078"
 msgid "Resume from"
-msgstr ""
+msgstr "恢复点"
 
 msgctxt "#30079"
 msgid "Start from beginning"
-msgstr ""
+msgstr "从头开始"
 
 msgctxt "#30080"
 msgid "myPlex Queue"
-msgstr ""
+msgstr "myPlex 队列"
 
 msgctxt "#30081"
 msgid "Sign In"
@@ -352,11 +352,11 @@ msgstr "登录"
 
 msgctxt "#30082"
 msgid "Display Servers"
-msgstr ""
+msgstr "显示服务器"
 
 msgctxt "#30083"
 msgid "Refresh Data"
-msgstr ""
+msgstr "刷新数据"
 
 msgctxt "#30084"
 msgid "Channels"
@@ -368,112 +368,112 @@ msgstr "播放列表"
 
 msgctxt "#30086"
 msgid "Play Transcoded"
-msgstr ""
+msgstr "播放转码"
 
 msgctxt "#30087"
 msgid "All episodes"
-msgstr ""
+msgstr "所有剧集"
 
 msgctxt "#30088"
 msgid "Season"
-msgstr ""
+msgstr "季"
 
 msgctxt "#30089"
 msgid "Search for"
-msgstr ""
+msgstr "搜索"
 
 msgctxt "#30090"
 msgid "Unplayed"
-msgstr ""
+msgstr "未播放"
 
 # ##### SETTINGS
 msgctxt "#30500"
 msgid "Primary Server Address"
-msgstr ""
+msgstr "主服务器地址"
 
 msgctxt "#30501"
 msgid "Stream from PMS"
-msgstr ""
+msgstr "来自 PMS 的流"
 
 msgctxt "#30502"
 msgid "Get extended metadata from PMS"
-msgstr ""
+msgstr "从 PMS 获取扩展元数据"
 
 msgctxt "#30503"
 msgid "Enable extra filter menus"
-msgstr ""
+msgstr "启用额外的筛选菜单"
 
 msgctxt "#30504"
 msgid "Server Discovery"
-msgstr ""
+msgstr "服务器发现"
 
 msgctxt "#30505"
 msgid "PMS Username: "
-msgstr ""
+msgstr "PMS 用户名： "
 
 msgctxt "#30506"
 msgid "PMS Password: "
-msgstr ""
+msgstr "PMS 密码： "
 
 msgctxt "#30507"
 msgid "Always Transcode"
-msgstr ""
+msgstr "始终转码"
 
 msgctxt "#30508"
 msgid "Transcode format "
-msgstr ""
+msgstr "转码格式 "
 
 msgctxt "#30509"
 msgid "Recent & OnDeck items"
-msgstr ""
+msgstr "最近播放 & 即将观看项"
 
 msgctxt "#30510"
 msgid "Debug log"
-msgstr ""
+msgstr "调试日志"
 
 msgctxt "#30511"
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgctxt "#30512"
 msgid "http"
-msgstr ""
+msgstr "http"
 
 msgctxt "#30513"
 msgid "smb"
-msgstr ""
+msgstr "smb"
 
 msgctxt "#30514"
 msgid "Debug level"
-msgstr ""
+msgstr "调试级别"
 
 msgctxt "#30515"
 msgid "Use transcoding proxy"
-msgstr ""
+msgstr "使用转码代理"
 
 msgctxt "#30516"
 msgid "Server"
-msgstr ""
+msgstr "服务器"
 
 msgctxt "#30517"
 msgid "Playback"
-msgstr ""
+msgstr "播放"
 
 msgctxt "#30518"
 msgid "Transcoding"
-msgstr ""
+msgstr "转码中"
 
 msgctxt "#30519"
 msgid "Wake On LAN"
-msgstr ""
+msgstr "局域网唤醒"
 
 msgctxt "#30520"
 msgid "Look and Feel"
-msgstr ""
+msgstr "界面外观与交互体验"
 
 msgctxt "#30521"
 msgid "Skin Home Shelf"
-msgstr ""
+msgstr "皮肤主页陈列架"
 
 msgctxt "#30522"
 msgid "Advanced"
@@ -481,380 +481,380 @@ msgstr "高级"
 
 msgctxt "#30523"
 msgid "Use Wake On LAN"
-msgstr ""
+msgstr "使用局域网唤醒"
 
 msgctxt "#30524"
 msgid "myPlex user"
-msgstr ""
+msgstr "myPlex 用户"
 
 msgctxt "#30525"
 msgid "myPlex password"
-msgstr ""
+msgstr "myPlex 密码"
 
 msgctxt "#30526"
 msgid "Select master server..."
-msgstr ""
+msgstr "选择主服务器..."
 
 msgctxt "#30527"
 msgid "Authentication required?"
-msgstr ""
+msgstr "是否需要身份验证？"
 
 msgctxt "#30528"
 msgid "Load External Subtitles?"
-msgstr ""
+msgstr "是否加载外部字幕？"
 
 msgctxt "#30529"
 msgid "Always display subtitles?"
-msgstr ""
+msgstr "是否总是显示字幕？"
 
 msgctxt "#30530"
 msgid "Port Number"
-msgstr ""
+msgstr "端口号"
 
 msgctxt "#30531"
 msgid "Use PMS localisation settings"
-msgstr ""
+msgstr "使用 PMS 本地化设置"
 
 msgctxt "#30532"
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 msgctxt "#30533"
 msgid "Always"
-msgstr ""
+msgstr "总是"
 
 msgctxt "#30534"
 msgid "Audio stream selection"
-msgstr ""
+msgstr "音频流选择"
 
 msgctxt "#30535"
 msgid "Subtitle stream selection"
-msgstr ""
+msgstr "字幕流选择"
 
 msgctxt "#30536"
 msgid "Kodi Control"
-msgstr ""
+msgstr "Kodi 控制"
 
 msgctxt "#30537"
 msgid "External"
-msgstr ""
+msgstr "额外"
 
 msgctxt "#30538"
 msgid "Audio and subtitle selector"
-msgstr ""
+msgstr "音频和字幕选择器"
 
 msgctxt "#30539"
 msgid "Never show subtitles"
-msgstr ""
+msgstr "从不显示字幕"
 
 msgctxt "#30540"
 msgid "Quality"
-msgstr ""
+msgstr "质量"
 
 msgctxt "#30541"
 msgid "Proxy Port"
-msgstr ""
+msgstr "代理端口"
 
 msgctxt "#30542"
 msgid "Plex Channel View"
-msgstr ""
+msgstr "Plex 频道视图"
 
 msgctxt "#30543"
 msgid "Flatten TV Shows"
-msgstr ""
+msgstr "扁平化显示电视剧"
 
 msgctxt "#30544"
 msgid "Server MAC address"
-msgstr ""
+msgstr "服务器 MAC 地址"
 
 msgctxt "#30545"
 msgid "Plex Style Watched flags"
-msgstr ""
+msgstr "Plex 风格已观看标记"
 
 msgctxt "#30546"
 msgid "Windows Media Server?"
-msgstr ""
+msgstr "Windows 媒体服务器？"
 
 msgctxt "#30547"
 msgid "Use WOL?"
-msgstr ""
+msgstr "使用 WOL？"
 
 # 30548
 msgctxt "#30549"
 msgid "Skip Genre/director/writer"
-msgstr ""
+msgstr "跳过 类型/导演/编剧"
 
 msgctxt "#30550"
 msgid "Skip images (thumbs, fanart)"
-msgstr ""
+msgstr "跳过图像（缩略图、背景图）"
 
 msgctxt "#30551"
 msgid "Skip Media Flags"
-msgstr ""
+msgstr "跳过媒体标志"
 
 msgctxt "#30552"
 msgid "Skip Context Menus"
-msgstr ""
+msgstr "跳过上下文菜单"
 
 msgctxt "#30553"
 msgid "Off"
-msgstr ""
+msgstr "关闭"
 
 msgctxt "#30554"
 msgid "Bonjour"
-msgstr ""
+msgstr "Bonjour 协议（零配置网络发现）"
 
 msgctxt "#30556"
 msgid "Play TV Theme Music"
-msgstr ""
+msgstr "播放电视主题音乐"
 
 msgctxt "#30557"
 msgid "Select audio output"
-msgstr ""
+msgstr "选择音频输出"
 
 msgctxt "#30558"
 msgid "If only one season"
-msgstr ""
+msgstr "如仅有一季"
 
 msgctxt "#30559"
 msgid "All seasons"
-msgstr ""
+msgstr "所有季"
 
 msgctxt "#30560"
 msgid "Force DVD playback"
-msgstr ""
+msgstr "强制播放 DVD"
 
 msgctxt "#30561"
 msgid "Override SMB location"
-msgstr ""
+msgstr "覆盖 SMB 位置"
 
 msgctxt "#30562"
 msgid "NAS IP Address"
-msgstr ""
+msgstr "NAS IP 地址"
 
 msgctxt "#30563"
 msgid "AFP"
-msgstr ""
+msgstr "AFP"
 
 msgctxt "#30564"
 msgid "NAS Username"
-msgstr ""
+msgstr "NAS 用户名"
 
 msgctxt "#30565"
 msgid "NAS password"
-msgstr ""
+msgstr "NAS 密码"
 
 msgctxt "#30566"
 msgid "NAS Root Folder"
-msgstr ""
+msgstr "NAS 根文件夹"
 
 msgctxt "#30567"
 msgid "Plex Control"
-msgstr ""
+msgstr "Plex 控制"
 
 msgctxt "#30568"
 msgid "Subtitle Size"
-msgstr ""
+msgstr "字幕大小"
 
 msgctxt "#30569"
 msgid "Audio Boost"
-msgstr ""
+msgstr "音频增强"
 
 msgctxt "#30570"
 msgid "Auto (GDM)"
-msgstr ""
+msgstr "自动（GDM）"
 
 msgctxt "#30571"
 msgid "Current Master Server"
-msgstr ""
+msgstr "当前主服务器"
 
 msgctxt "#30572"
 msgid "Current Master Server"
-msgstr ""
+msgstr "当前主服务器"
 
 msgctxt "#30573"
 msgid "Recently Added"
-msgstr ""
+msgstr "最近添加"
 
 msgctxt "#30574"
 msgid "On Deck"
-msgstr ""
+msgstr "即将观看"
 
 msgctxt "#30575"
 msgid "Force Skin Views"
-msgstr ""
+msgstr "强制外观视图"
 
 msgctxt "#30576"
 msgid "Skin Name"
-msgstr ""
+msgstr "皮肤名称"
 
 msgctxt "#30577"
 msgid "Movie View"
-msgstr ""
+msgstr "电影视图"
 
 msgctxt "#30578"
 msgid "TV View"
-msgstr ""
+msgstr "电视视图"
 
 msgctxt "#30579"
 msgid "Season View"
-msgstr ""
+msgstr "季视图"
 
 msgctxt "#30580"
 msgid "Episode View"
-msgstr ""
+msgstr "剧集视图"
 
 msgctxt "#30581"
 msgid "Music View"
-msgstr ""
+msgstr "音乐视图"
 
 msgctxt "#30582"
 msgid "Enable Movie Shelf"
-msgstr ""
+msgstr "启用电影陈列架"
 
 msgctxt "#30583"
 msgid "Enable TV Shelf"
-msgstr ""
+msgstr "启用电视陈列架"
 
 msgctxt "#30584"
 msgid "Enable Music Shelf"
-msgstr ""
+msgstr "启用音乐陈列架"
 
 msgctxt "#30585"
 msgid "Enable Channel Shelf"
-msgstr ""
+msgstr "启用频道陈列架"
 
 msgctxt "#30586"
 msgid "Content filter"
-msgstr ""
+msgstr "内容过滤器"
 
 msgctxt "#30587"
 msgid "Map unknown content as:"
-msgstr ""
+msgstr "将未知内容映射为："
 
 msgctxt "#30588"
 msgid "RA Library filter"
-msgstr ""
+msgstr "RA 媒体库过滤器"
 
 msgctxt "#30589"
 msgid "Kids"
-msgstr ""
+msgstr "儿童"
 
 msgctxt "#30590"
 msgid "Teens"
-msgstr ""
+msgstr "青少年"
 
 msgctxt "#30591"
 msgid "Adults"
-msgstr ""
+msgstr "成人"
 
 msgctxt "#30592"
 msgid "Use menu for shared sections"
-msgstr ""
+msgstr "对共享分区使用菜单"
 
 msgctxt "#30593"
 msgid "Cache Data"
-msgstr ""
+msgstr "缓存数据"
 
 msgctxt "#30594"
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 msgctxt "#30595"
 msgid "Use full resolution thumbs"
-msgstr ""
+msgstr "使用全分辨率缩略图"
 
 msgctxt "#30596"
 msgid "Use full resolution fanart"
-msgstr ""
+msgstr "使用全分辨率背景图"
 
 msgctxt "#30597"
 msgid "Hide watched recently added items"
-msgstr ""
+msgstr "隐藏已观看的最近添加的项目"
 
 msgctxt "#30598"
 msgid "Info"
-msgstr ""
+msgstr "信息"
 
 msgctxt "#30599"
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 msgctxt "#30600"
 msgid "Debug+"
-msgstr ""
+msgstr "调试+"
 
 msgctxt "#30601"
 msgid "Transcoder"
-msgstr ""
+msgstr "转码器"
 
 msgctxt "#30602"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 msgctxt "#30603"
 msgid "Disable 'All Episodes'"
-msgstr ""
+msgstr "禁用 “所有剧集”"
 
 msgctxt "#30604"
 msgid "Enable Kodi view cache"
-msgstr ""
+msgstr "启用 Kodi 视图缓存"
 
 msgctxt "#30605"
 msgid "Manage myPlex"
-msgstr ""
+msgstr "管理 myPlex"
 
 msgctxt "#30606"
 msgid "Prefer Season artwork"
-msgstr ""
+msgstr "首选季艺术图片"
 
 msgctxt "#30607"
 msgid "Hide Unique Information in log"
-msgstr ""
+msgstr "隐藏日志中的唯一信息"
 
 msgctxt "#30608"
 msgid "Use Kodi client name?"
-msgstr ""
+msgstr "使用 Kodi 客户端名称？"
 
 msgctxt "#30609"
 msgid "Switch off playback monitor"
-msgstr ""
+msgstr "关闭播放监视器"
 
 msgctxt "#30610"
 msgid "Use HTTPS"
-msgstr ""
+msgstr "使用 HTTPS"
 
 msgctxt "#30611"
 msgid "Transcode > 1080p"
-msgstr ""
+msgstr "转码 > 1080p"
 
 msgctxt "#30612"
 msgid "Transcode HEVC"
-msgstr ""
+msgstr "转码 HEVC"
 
 msgctxt "#30613"
 msgid "MAC Address"
-msgstr ""
+msgstr "MAC 地址"
 
 msgctxt "#30614"
 msgid "Universal"
-msgstr ""
+msgstr "普遍"
 
 msgctxt "#30615"
 msgid "Legacy"
-msgstr ""
+msgstr "兼容"
 
 msgctxt "#30616"
 msgid "Refresh library section"
-msgstr ""
+msgstr "刷新库部分"
 
 msgctxt "#30617"
 msgid "Username:"
-msgstr ""
+msgstr "用户名："
 
 msgctxt "#30618"
 msgid "Password:"
-msgstr ""
+msgstr "密码："
 
 msgctxt "#30619"
 msgid "Cancel"
@@ -862,57 +862,57 @@ msgstr "取消"
 
 msgctxt "#30620"
 msgid "Submit"
-msgstr ""
+msgstr "提交"
 
 msgctxt "#30621"
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 msgctxt "#30622"
 msgid "Use PIN"
-msgstr ""
+msgstr "使用 PIN 码"
 
 msgctxt "#30623"
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 msgctxt "#30624"
 msgid "Unable to sign in"
-msgstr ""
+msgstr "无法登录"
 
 msgctxt "#30625"
 msgid "From your computer, go to %s and enter the code below"
-msgstr ""
+msgstr "从您的电脑中，前往 % s 并输入以下代码"
 
 msgctxt "#30626"
 msgid "Successfully signed in"
-msgstr ""
+msgstr "成功登录"
 
 msgctxt "#30627"
 msgid "Sign in not successful"
-msgstr ""
+msgstr "登录不成功"
 
 msgctxt "#30628"
 msgid "Email:"
-msgstr ""
+msgstr "电子邮件："
 
 msgctxt "#30629"
 msgid "Plex Pass:"
-msgstr ""
+msgstr "Plex Pass:"
 
 msgctxt "#30630"
 msgid "Joined:"
-msgstr ""
+msgstr "已加入："
 
 msgctxt "#30631"
 msgid "Exit"
-msgstr ""
+msgstr "退出"
 
 #  30632
 #  30633
 msgctxt "#30634"
 msgid "Enter your myPlex details below"
-msgstr ""
+msgstr "请在下面输入您的 myPlex 详细信息"
 
 #  30635
 msgctxt "#30636"
@@ -921,59 +921,59 @@ msgstr "未知"
 
 msgctxt "#30637"
 msgid "myPlex Login"
-msgstr ""
+msgstr "myPlex 登录"
 
 msgctxt "#30638"
 msgid "Enter search term"
-msgstr ""
+msgstr "输入搜索词"
 
 msgctxt "#30639"
 msgid "Enter value"
-msgstr ""
+msgstr "输入值"
 
 msgctxt "#30640"
 msgid "Transcode Profile"
-msgstr ""
+msgstr "转码配置文件"
 
 msgctxt "#30641"
 msgid "Transcode Profiles"
-msgstr ""
+msgstr "转码配置文件"
 
 msgctxt "#30642"
 msgid "Offline"
-msgstr ""
+msgstr "线下"
 
 msgctxt "#30643"
 msgid "Remote"
-msgstr ""
+msgstr "远程"
 
 msgctxt "#30644"
 msgid "Nearby"
-msgstr ""
+msgstr "附近"
 
 msgctxt "#30645"
 msgid "SSL"
-msgstr ""
+msgstr "SSL"
 
 msgctxt "#30646"
 msgid "Not Secure"
-msgstr ""
+msgstr "不安全"
 
 msgctxt "#30647"
 msgid "Certificate Verification"
-msgstr ""
+msgstr "证书验证"
 
 msgctxt "#30648"
 msgid "Message"
-msgstr ""
+msgstr "消息"
 
 msgctxt "#30649"
 msgid "blank"
-msgstr ""
+msgstr "空白"
 
 msgctxt "#30650"
 msgid "Server Discovery"
-msgstr ""
+msgstr "服务器发现"
 
 msgctxt "#30651"
 msgid "Please wait..."
@@ -981,39 +981,39 @@ msgstr "请稍候..."
 
 msgctxt "#30652"
 msgid "myPlex discovery..."
-msgstr ""
+msgstr "myPlex 发现..."
 
 msgctxt "#30653"
 msgid "GDM discovery..."
-msgstr ""
+msgstr "GDM 发现..."
 
 msgctxt "#30654"
 msgid "User provided..."
-msgstr ""
+msgstr "用户提供的..."
 
 msgctxt "#30655"
 msgid "Caching results..."
-msgstr ""
+msgstr "缓存结果..."
 
 msgctxt "#30656"
 msgid "Finished"
-msgstr ""
+msgstr "完成"
 
 msgctxt "#30657"
 msgid "Found servers:"
-msgstr ""
+msgstr "找到的服务器："
 
 msgctxt "#30658"
 msgid "No servers found"
-msgstr ""
+msgstr "未找到服务器"
 
 msgctxt "#30659"
 msgid "Transcode > 8-bit"
-msgstr ""
+msgstr "转码 > 8 位"
 
 msgctxt "#30660"
 msgid "Device Name"
-msgstr ""
+msgstr "设备名称"
 
 msgctxt "#30661"
 msgid "Cache"
@@ -1021,15 +1021,15 @@ msgstr "缓存"
 
 msgctxt "#30662"
 msgid "Server Cache TTL (minutes)"
-msgstr ""
+msgstr "服务器缓存 TTL（分钟）"
 
 msgctxt "#30663"
 msgid "Server detection notification"
-msgstr ""
+msgstr "服务器检测通知"
 
 msgctxt "#30664"
 msgid "installed"
-msgstr ""
+msgstr "安装"
 
 msgctxt "#30665"
 msgid "Movies"
@@ -1037,23 +1037,23 @@ msgstr "电影"
 
 msgctxt "#30666"
 msgid "Music"
-msgstr ""
+msgstr "音乐"
 
 msgctxt "#30667"
 msgid "TV Shows"
-msgstr "电视节目"
+msgstr "电视剧"
 
 msgctxt "#30668"
 msgid "Photos"
-msgstr ""
+msgstr "照片"
 
 msgctxt "#30669"
 msgid "Server name prefix on the main menu"
-msgstr ""
+msgstr "主菜单上的服务器名称前缀"
 
 msgctxt "#30670"
 msgid "Always"
-msgstr ""
+msgstr "总是"
 
 msgctxt "#30671"
 msgid "Default"
@@ -1065,15 +1065,15 @@ msgstr "转到 %s"
 
 msgctxt "#30673"
 msgid "Delete %s from the %s playlist?"
-msgstr ""
+msgstr "从 %s 播放列表中删除 %s？"
 
 msgctxt "#30674"
 msgid "Confirm playlist item delete?"
-msgstr ""
+msgstr "确认播放列表项目删除？"
 
 msgctxt "#30675"
 msgid "Delete from playlist"
-msgstr ""
+msgstr "从播放列表中删除"
 
 msgctxt "#30676"
 msgid "Select playlist"
@@ -1081,123 +1081,123 @@ msgstr "选择播放列表"
 
 msgctxt "#30677"
 msgid "Add to playlist"
-msgstr ""
+msgstr "添加到播放列表"
 
 msgctxt "#30678"
 msgid "Added %s to the %s playlist"
-msgstr ""
+msgstr "将 %s 添加到 %s 播放列表"
 
 msgctxt "#30679"
 msgid "Failed to add %s to the %s playlist"
-msgstr ""
+msgstr "无法将 %s 添加到 %s 播放列表"
 
 msgctxt "#30680"
 msgid "%s is already in the %s playlist"
-msgstr ""
+msgstr "%s 已在 %s 播放列表中"
 
 msgctxt "#30681"
 msgid "%s has been removed the %s playlist"
-msgstr ""
+msgstr "%s 已从 %s 播放列表中删除"
 
 msgctxt "#30682"
 msgid "Unable to remove %s from the %s playlist"
-msgstr ""
+msgstr "无法从 %s 播放列表中删除 %s"
 
 msgctxt "#30683"
 msgid "Show the 'Delete' context menu"
-msgstr ""
+msgstr "显示“删除”上下文菜单"
 
 msgctxt "#30684"
 msgid "Up Next"
-msgstr ""
+msgstr "接下来播放"
 
 msgctxt "#30685"
 msgid "Enable Up Next"
-msgstr ""
+msgstr "启用“接下来播放”"
 
 msgctxt "#30686"
 msgid "Open Up Next settings"
-msgstr ""
+msgstr "打开“接下来播放”设置"
 
 msgctxt "#30687"
 msgid "Install Up Next"
-msgstr ""
+msgstr "安装“接下来播放”"
 
 msgctxt "#30688"
 msgid "Up Next is enabled in the settings, however Up Next appears to be disabled. Would you like to enable Up Next now?"
-msgstr ""
+msgstr "设置中已启用 “接下来播放”，但它似乎被禁用了。您现在想启用吗？"
 
 msgctxt "#30690"
 msgid "From your computer, go to [B]%s[/B] and enter the following code: [B]%s[/B]"
-msgstr ""
+msgstr "从您的电脑中，前往 [B]%s [/B] 并输入以下代码：[B]%s [/B]"
 
 msgctxt "#30691"
 msgid "Use episode thumbnails"
-msgstr ""
+msgstr "使用剧集缩略图"
 
 msgctxt "#30692"
 msgid "Widgets"
-msgstr ""
+msgstr "小部件"
 
 msgctxt "#30693"
 msgid "Show [B]Widgets[/B] menu"
-msgstr ""
+msgstr "显示[B]小部件[/B]菜单"
 
 msgctxt "#30694"
 msgid "Clear Caches"
-msgstr ""
+msgstr "清除缓存"
 
 msgctxt "#30695"
 msgid "Data Cache TTL (minutes)"
-msgstr ""
+msgstr "数据缓存 TTL（分钟）"
 
 msgctxt "#30696"
 msgid "Clear data cache on refresh"
-msgstr ""
+msgstr "刷新时清除数据缓存"
 
 msgctxt "#30697"
 msgid "Movies on Deck"
-msgstr ""
+msgstr "即将观看电影"
 
 msgctxt "#30698"
 msgid "TV Shows on Deck"
-msgstr ""
+msgstr "即将观看电视剧"
 
 msgctxt "#30699"
 msgid "Recently Released Movies"
-msgstr ""
+msgstr "最近上映的电影"
 
 msgctxt "#30700"
 msgid "Recently Aired TV Shows"
-msgstr ""
+msgstr "最近播出的电视剧"
 
 msgctxt "#30701"
 msgid "Recently Added Movies"
-msgstr ""
+msgstr "最近添加的电影"
 
 msgctxt "#30702"
 msgid "Recently Added TV Shows"
-msgstr ""
+msgstr "最近添加的电视剧"
 
 msgctxt "#30703"
 msgid "Data Cache"
-msgstr ""
+msgstr "数据缓存"
 
 msgctxt "#30704"
 msgid "Companion receiver is unable to start due to a port conflict"
-msgstr ""
+msgstr "伴随接收器因端口冲突无法启动"
 
 msgctxt "#30705"
 msgid "Companion receiver has started"
-msgstr ""
+msgstr "伴随接收器已启动"
 
 msgctxt "#30706"
 msgid "Companion receiver has been stopped"
-msgstr ""
+msgstr "伴随接收器已停止"
 
 msgctxt "#30707"
 msgid "Companion Receiver"
-msgstr ""
+msgstr "伴随接收器"
 
 msgctxt "#30708"
 msgid "Enabled"
@@ -1209,15 +1209,15 @@ msgstr "端口"
 
 msgctxt "#30710"
 msgid "Kodi's Web Server Settings"
-msgstr ""
+msgstr "Kodi 的 Web 服务器设置"
 
 msgctxt "#30711"
 msgid "[COLOR=red]EXPERIMENTAL[/COLOR] - This feature is experimental[CR]Any changes to these settings will require a restart to take effect"
-msgstr ""
+msgstr "[COLOR=red] 实验性 [/COLOR] - 此功能为实验性版本 [CR] 对这些设置的任何更改都需要重启才能生效"
 
 msgctxt "#30712"
 msgid "Username"
-msgstr "账号"
+msgstr "用户名"
 
 msgctxt "#30713"
 msgid "Password"
@@ -1229,87 +1229,87 @@ msgstr "主菜单"
 
 msgctxt "#30715"
 msgid "Show [B]myPlex Queue[/B] menu"
-msgstr ""
+msgstr "显示 [B]myPlex 队列[/B] 菜单"
 
 msgctxt "#30716"
 msgid "Show [B]Channels[/B] menu"
-msgstr ""
+msgstr "显示 [B] 频道[/B] 菜单"
 
 msgctxt "#30717"
 msgid "Show [B]Plex Online[/B] menu"
-msgstr ""
+msgstr "显示 [B]Plex Online[/B] 菜单"
 
 msgctxt "#30718"
 msgid "Show [B]Playlists[/B] menu"
-msgstr ""
+msgstr "显示 [B] 播放列表[/B] 菜单"
 
 msgctxt "#30719"
 msgid "Context Menu"
-msgstr ""
+msgstr "上下文菜单"
 
 msgctxt "#30720"
 msgid "Metadata"
-msgstr ""
+msgstr "元数据"
 
 msgctxt "#30721"
 msgid "Transcoding"
-msgstr ""
+msgstr "转码中"
 
 msgctxt "#30722"
 msgid "Create a playlist"
-msgstr ""
+msgstr "创建播放列表"
 
 msgctxt "#30723"
 msgid "Enter a playlist title"
-msgstr ""
+msgstr "输入播放列表标题"
 
 msgctxt "#30724"
 msgid "Delete playlist"
-msgstr ""
+msgstr "删除播放列表"
 
 msgctxt "#30725"
 msgid "Confirm playlist delete?"
-msgstr ""
+msgstr "确认删除播放列表？"
 
 msgctxt "#30726"
 msgid "Are you sure you want to delete this playlist?"
-msgstr ""
+msgstr "您确定要删除此播放列表吗？"
 
 msgctxt "#30727"
 msgid "Notification encoding"
-msgstr ""
+msgstr "通知编码"
 
 msgctxt "#30728"
 msgid "Episode sort method"
-msgstr ""
+msgstr "剧集排序方式"
 
 msgctxt "#30729"
 msgid "Plex"
-msgstr ""
+msgstr "Plex"
 
 msgctxt "#30730"
 msgid "Kodi"
-msgstr ""
+msgstr "Kodi"
 
 msgctxt "#30731"
 msgid "Manage Servers"
-msgstr ""
+msgstr "管理服务器"
 
 msgctxt "#30732"
 msgid "Set as Master"
-msgstr ""
+msgstr "设置为主服务器"
 
 msgctxt "#30733"
 msgid "Connection Test Results"
-msgstr ""
+msgstr "连接测试结果"
 
 msgctxt "#30734"
 msgid "Default to forced subtitles"
-msgstr ""
+msgstr "默认为强制字幕"
 
 msgctxt "#30735"
 msgid "Mixed content type"
-msgstr ""
+msgstr "混合内容类型"
 
 msgctxt "#30736"
 msgid "Default"
@@ -1317,143 +1317,143 @@ msgstr "默认"
 
 msgctxt "#30737"
 msgid "Majority"
-msgstr ""
+msgstr "大多数"
 
 msgctxt "#30738"
 msgid "Add custom access url"
-msgstr ""
+msgstr "添加自定义访问 URL"
 
 msgctxt "#30739"
 msgid "Custom access urls"
-msgstr ""
+msgstr "自定义访问 URL"
 
 msgctxt "#30740"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 msgctxt "#30741"
 msgid "Edit custom access url"
-msgstr ""
+msgstr "编辑自定义访问 URL"
 
 msgctxt "#30742"
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 msgctxt "#30743"
 msgid "All Artists"
-msgstr ""
+msgstr "所有艺术家"
 
 msgctxt "#30744"
 msgid "All Photos"
-msgstr ""
+msgstr "所有照片"
 
 msgctxt "#30745"
 msgid "All Shows"
-msgstr ""
+msgstr "所有节目"
 
 msgctxt "#30746"
 msgid "All Movies"
-msgstr ""
+msgstr "所有电影"
 
 msgctxt "#30747"
 msgid "Preferred lyrics format"
-msgstr ""
+msgstr "首选歌词格式"
 
 msgctxt "#30748"
 msgid "Lyrics"
-msgstr ""
+msgstr "歌词"
 
 msgctxt "#30749"
 msgid "lrc"
-msgstr ""
+msgstr "lrc"
 
 msgctxt "#30750"
 msgid "txt"
-msgstr ""
+msgstr "txt"
 
 msgctxt "#30751"
 msgid "Skip intro"
-msgstr ""
+msgstr "跳过介绍"
 
 msgctxt "#30752"
 msgid "Intro skipping"
-msgstr ""
+msgstr "介绍跳过中"
 
 msgctxt "#30753"
 msgid "Plex Pass Required"
-msgstr ""
+msgstr "需要 Plex 通行证"
 
 msgctxt "#30754"
 msgid "Plex powered by LyricFind"
-msgstr ""
+msgstr "Plex 由 LyricFind 提供支持"
 
 msgctxt "#30755"
 msgid "Show skip intro dialog"
-msgstr ""
+msgstr "显示跳过介绍对话框"
 
 msgctxt "#30756"
 msgid "All %s"
-msgstr ""
+msgstr "所有 %s"
 
 msgctxt "#30757"
 msgid "All Servers: TV Shows On Deck"
-msgstr ""
+msgstr "所有服务器：即将观看电视剧"
 
 msgctxt "#30758"
 msgid "All Servers: Movies On Deck"
-msgstr ""
+msgstr "所有服务器：即将观看电影"
 
 msgctxt "#30759"
 msgid "Recently Added Episodes"
-msgstr ""
+msgstr "最近添加的剧集"
 
 msgctxt "#30760"
 msgid "All Servers: Recently Added Episodes"
-msgstr ""
+msgstr "所有服务器：最近添加的剧集"
 
 msgctxt "#30761"
 msgid "All Servers: Recently Added Movies"
-msgstr ""
+msgstr "所有服务器：最近添加的电影"
 
 msgctxt "#30762"
 msgid "Server name prefix on combined sections"
-msgstr ""
+msgstr "合并分区的服务器名称前缀"
 
 msgctxt "#30763"
 msgid "Recently Added item count (per server section)"
-msgstr ""
+msgstr "最近添加的内容计数（按服务器分区）"
 
 msgctxt "#30764"
 msgid "Recently Added include watched"
-msgstr ""
+msgstr "最近添加的内容包括观看"
 
 msgctxt "#30765"
 msgid "Composite Playlist"
-msgstr ""
+msgstr "组合播放列表"
 
 msgctxt "#30766"
 msgid "Generate a playlist from the information below"
-msgstr ""
+msgstr "根据以下信息生成播放列表"
 
 msgctxt "#30767"
 msgid "Mixed"
-msgstr ""
+msgstr "混合"
 
 msgctxt "#30768"
 msgid "Play"
-msgstr ""
+msgstr "播放"
 
 msgctxt "#30769"
 msgid "Item Count"
-msgstr ""
+msgstr "项目计数"
 
 msgctxt "#30770"
 msgid "All Servers"
-msgstr ""
+msgstr "所有服务器"
 
 msgctxt "#30771"
 msgid "Shuffle"
-msgstr "任意"
+msgstr "随机播放"
 
 msgctxt "#30772"
 msgid "Source"
@@ -1465,160 +1465,160 @@ msgstr "无"
 
 msgctxt "#30774"
 msgid "Generating Playlist"
-msgstr ""
+msgstr "正在生成播放列表"
 
 msgctxt "#30775"
 msgid "This may take a while..."
-msgstr ""
+msgstr "这可能需要一段时间..."
 
 msgctxt "#30776"
 msgid "Retrieving server list..."
-msgstr ""
+msgstr "正在检索服务器列表..."
 
 msgctxt "#30777"
 msgid "Retrieving server sections..."
-msgstr ""
+msgstr "正在检索服务器分区..."
 
 msgctxt "#30778"
 msgid "Retrieving content metadata..."
-msgstr ""
+msgstr "正在检索内容元数据..."
 
 msgctxt "#30779"
 msgid "Retrieving final sample..."
-msgstr ""
+msgstr "正在检索最终样本..."
 
 msgctxt "#30780"
 msgid "Adding items to playlist..."
-msgstr ""
+msgstr "正在将项目添加到播放列表..."
 
 msgctxt "#30781"
 msgid "Adding %s to playlist..."
-msgstr ""
+msgstr "正在将 %s 添加到播放列表..."
 
 msgctxt "#30782"
 msgid "Completed."
-msgstr ""
+msgstr "已完成。"
 
 msgctxt "#30783"
 msgid "Checking section %s on %s..."
-msgstr ""
+msgstr "正在检查 %s 上的 %s 部分..."
 
 msgctxt "#30784"
 msgid "Retrieving %s from %s for sample..."
-msgstr ""
+msgstr "正在从 %s 检索 %s 作为样本..."
 
 msgctxt "#30785"
 msgid "Retrieving %s episodes for sample..."
-msgstr ""
+msgstr "正在检索 %s 剧集作为样本..."
 
 msgctxt "#30786"
 msgid "Creating samples..."
-msgstr ""
+msgstr "正在创建样本..."
 
 msgctxt "#30787"
 msgid "Retrieving metadata for %s..."
-msgstr ""
+msgstr "正在检索 %s 的元数据..."
 
 msgctxt "#30788"
 msgid "Show [B]Composite Playlist[/B] menu"
-msgstr ""
+msgstr "显示 [B]组合播放列表[/B] 菜单"
 
 msgctxt "#30789"
 msgid "Server(s)"
-msgstr ""
+msgstr "服务器"
 
 msgctxt "#30790"
 msgid "Combined Sections"
-msgstr ""
+msgstr "合并分区"
 
 msgctxt "#30791"
 msgid "Search Movies..."
-msgstr ""
+msgstr "搜索电影..."
 
 msgctxt "#30792"
 msgid "Mark as watched"
-msgstr ""
+msgstr "标记为“已观看”"
 
 msgctxt "#30793"
 msgid "Mark as unwatched"
-msgstr ""
+msgstr "标记为“未观看”"
 
 msgctxt "#30794"
 msgid "Library - Movie Sections"
-msgstr ""
+msgstr "媒体库 - 电影分区"
 
 msgctxt "#30795"
 msgid "Library - TV Show Sections"
-msgstr ""
+msgstr "媒体库 - 电视剧分区"
 
 msgctxt "#30796"
 msgid "Kodi Library"
-msgstr ""
+msgstr "Kodi 库"
 
 msgctxt "#30797"
 msgid "Select sections to include in library scans"
-msgstr ""
+msgstr "选择要包含在媒体库扫描中的分区"
 
 msgctxt "#30798"
 msgid "Reset selected sections"
-msgstr ""
+msgstr "重置所选分区"
 
 msgctxt "#30799"
 msgid "Configured library sections have been reset"
-msgstr ""
+msgstr "已配置的媒体库分区已重置"
 
 msgctxt "#30800"
 msgid "Continue Watching"
-msgstr ""
+msgstr "继续观看"
 
 msgctxt "#30801"
 msgid "Detect Servers"
-msgstr ""
+msgstr "检测服务器"
 
 msgctxt "#30802"
 msgid "420x420, 320Kbps"
-msgstr ""
+msgstr "420x420, 320 Kbps"
 
 msgctxt "#30803"
 msgid "576x320, 720Kbps"
-msgstr ""
+msgstr "576x320, 720 Kbps"
 
 msgctxt "#30804"
 msgid "720x480, 1.5Mbps"
-msgstr ""
+msgstr "720x480, 1.5 Mbps"
 
 msgctxt "#30805"
 msgid "1024x768, 2Mbps"
-msgstr ""
+msgstr "1024x768, 2 Mbps"
 
 msgctxt "#30806"
 msgid "1280x720, 3Mbps"
-msgstr ""
+msgstr "1280x720, 3 Mbps"
 
 msgctxt "#30807"
 msgid "1280x720, 4Mbps"
-msgstr ""
+msgstr "1280x720, 4 Mbps"
 
 msgctxt "#30808"
 msgid "1920x1080, 8Mbps"
-msgstr ""
+msgstr "1920x1080, 8 Mbps"
 
 msgctxt "#30809"
 msgid "1920x1080, 10Mbps"
-msgstr ""
+msgstr "1920x1080, 10 Mbps"
 
 msgctxt "#30810"
 msgid "1920x1080, 12Mbps"
-msgstr ""
+msgstr "1920x1080, 12 Mbps"
 
 msgctxt "#30811"
 msgid "1920x1080, 20Mbps"
-msgstr ""
+msgstr "1920x1080, 20 Mbps"
 
 msgctxt "#30812"
 msgid "1920x1080, 40Mbps"
-msgstr ""
+msgstr "1920x1080, 40 Mbps"
 
 msgctxt "#30813"
 msgid "1920x1080, unlimited"
-msgstr ""
+msgstr "1920x1080，无限制"
